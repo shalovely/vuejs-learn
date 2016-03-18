@@ -47,6 +47,9 @@ https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
 ###03.概述
 
+https://youtu.be/c1PKzLMPpfQ
+
+#### 此章范例如下：
   1. [响应式数据绑定 demo] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/001%20Reactive%20data%20binding%20demo.html)
 
   2. [响应式数据绑 demo2] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/002%20Reactive%20data%20binding%20second%20demo.html)
