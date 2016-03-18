@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <script type="text/javascript" src="vue.js"></script>
+</head>
+
+<body>
+  <!-- this is our View -->
+  <div id="example-2">
+    <p v-if="greeting">Hello!</p>
+  </div>
+  <!---------------- VUE-->
+  <script>
+
+  // create a Vue instance, or, a "ViewModel"
+  // which links the View and the Model
+  var exampleVM2 = new Vue({
+    el: '#example-2',
+    data: {
+      greeting: true
+    }
+  })
+
+  //F12
+  // exampleVM2.greeting = 0
+  // exampleVM2.greeting = 1
+  </script>
+</body>
+
+</html>
