@@ -66,17 +66,17 @@ https://youtu.be/c1PKzLMPpfQ
 ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
 
 #### 此章范例如下：
-  1.[Constructor demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/001%20Constructor%20demo.html)
+  1.[构造器 Constructor demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/001%20Constructor%20demo.html)
 
-  2.[Component demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/002%20component.html)
+  2.[组件 Component demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/002%20component.html)
 
-  3.[Properties and Methods demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/003%20Properties-and-Methods.html)
+  3.[属性与方法 Properties and Methods demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/003%20Properties-and-Methods.html)
 
-  4.[Properties and Methods demo 2](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/004%20Properties-and-Methods%202.html)
+  4.[属性与方法 Properties and Methods demo 2](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/004%20Properties-and-Methods%202.html)
 
-  5.[Instance Lifecycle dmeo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/005%20Instance-Lifecycle.html)
+  5.[实例生命周期 Instance Lifecycle dmeo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/005%20Instance-Lifecycle.html)
 
-  6.[Life Cycle demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/006%20life%20cycle.html)
+  6.[生命周期 图示 Life Cycle demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/006%20life%20cycle.html)
 
 
 
