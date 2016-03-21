@@ -63,10 +63,12 @@ https://youtu.be/c1PKzLMPpfQ
 
 ### 4.Vue 实例
 
+![生命周期中文版 台湾小凡](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle%20%E4%B8%AD%E6%96%87%E7%89%88%20%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%87%A1.jpg)
 
 #### 此章范例如下：
 
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+
+
 
 
 
