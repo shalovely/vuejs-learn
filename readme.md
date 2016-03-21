@@ -63,7 +63,7 @@ https://youtu.be/c1PKzLMPpfQ
 
 ### 4.Vue 实例
 
-![lifecycle](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
 
 #### 此章范例如下：
 
