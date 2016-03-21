@@ -66,6 +66,7 @@ https://youtu.be/c1PKzLMPpfQ
 ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
 
 #### 此章范例如下：
+  1.[Constructor demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/001%20Constructor%20demo.html)
 
 
 
