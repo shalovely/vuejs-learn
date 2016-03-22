@@ -33,8 +33,10 @@
 [http://cdn.jsdelivr.net/vue/1.0.17/vue.min.js] (http://cdn.jsdelivr.net/vue/1.0.17/vue.min.js)
 
 
-## 优酷视频专区
+## 优酷视频专区(所有视频都会放在这，相关代码请见此 github)
 http://i.youku.com/u/UMzQxOTE4MDE5Mg==
+
+注：因为网路不稳，所以台湾不能直接浏览优酷网，也因为网路不稳，中国无法直接洌览 youtube，所以小弟在这两个视频大站，分别上传。以服务大家。
 
 #课程列表
 ##01.什么是 vuejs
