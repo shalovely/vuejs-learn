@@ -32,6 +32,10 @@
 ## vue.js 版本
 [http://cdn.jsdelivr.net/vue/1.0.17/vue.min.js] (http://cdn.jsdelivr.net/vue/1.0.17/vue.min.js)
 
+
+## 优酷视频专区
+http://i.youku.com/u/UMzQxOTE4MDE5Mg==
+
 #课程列表
 ##01.什么是 vuejs
 https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
