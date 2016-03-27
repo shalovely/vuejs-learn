@@ -113,6 +113,14 @@ https://youtu.be/QbEJ5pfgxw0
 
   10.[filter 传参](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/007%20filters%20%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E8%BF%87%E6%BB%A4%E5%99%A8.html)
 
+  11.[filter 串联](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/007%20filters%20%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E8%BF%87%E6%BB%A4%E5%99%A8.html)
 
+  12.[filter 自定义](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/008%20filters%20%E4%B8%8E%E4%BC%A0%E5%8F%82.html)
 
+  13.[指令](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/010%20%E6%8C%87%E4%BB%A4.html)
 
+  14.[指令 参数](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/011%20%E6%8C%87%E4%BB%A4-%E5%8F%82%E6%95%B0.html)
+
+  15.[指令 事件](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/012%20%E6%8C%87%E4%BB%A4-%E4%BA%8B%E4%BB%B6.html)
+
+  16.[指令 修饰符](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/013%20%E6%8C%87%E4%BB%A4%E4%BF%AE%E9%A5%B0%E7%AC%A6.html)
