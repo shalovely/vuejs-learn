@@ -88,6 +88,12 @@ https://youtu.be/QbEJ5pfgxw0
 
   6.[生命周期 图示 Life Cycle demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/006%20life%20cycle.html)
 
+### 5.数据绑定语法
+
+
+#### 此章范例如下：
+
+
 
 
 
