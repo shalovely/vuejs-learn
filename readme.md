@@ -92,7 +92,26 @@ https://youtu.be/QbEJ5pfgxw0
 
 
 #### 此章范例如下：
+  1.[view-interpolations-text](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/001%20view-interpolations-text%20.html)
 
+  2.[Raw Html](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/002%20Raw%20Html.html)
+
+  3.[partial](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/003%20partial-0.html)
+
+  4.[partial 1](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/003%20partial-1.html)
+
+  5.[partial 2](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/003%20partial-2.html)
+
+  6.[Attributes](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/004%20Attributes.html)
+
+  7.[Java Script Expressions](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/005%20JavaScriptExpressions.html)
+
+  8.[Java Script Expressons error](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/005%20JavaScriptExpressions-1.html)
+
+  9.[filters](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/006%20filters.html)
+
+
+  10.[filter 传参](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/007%20filters%20%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E8%BF%87%E6%BB%A4%E5%99%A8.html)
 
 
 
