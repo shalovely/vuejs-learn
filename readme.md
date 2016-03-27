@@ -92,7 +92,7 @@ https://youtu.be/QbEJ5pfgxw0
 
 https://www.youtube.com/watch?v=K-T_i7X4lrY&feature=youtu.be
 
-
+http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
 
 #### 此章范例如下：
   1.[view-interpolations-text](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/001%20view-interpolations-text%20.html)
