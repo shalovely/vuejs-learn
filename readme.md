@@ -90,6 +90,9 @@ https://youtu.be/QbEJ5pfgxw0
 
 ### 5.数据绑定语法
 
+https://www.youtube.com/watch?v=K-T_i7X4lrY&feature=youtu.be
+
+
 
 #### 此章范例如下：
   1.[view-interpolations-text](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/001%20view-interpolations-text%20.html)
