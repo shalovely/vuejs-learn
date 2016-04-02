@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
 
 https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
+#### 此章范例如下
+
 	1.[vue.js 简单结构]  (http://codepen.io/bhnddowinf/pen/EKNEPd)
 
 	2.[使用文字框] (http://codepen.io/bhnddowinf/pen/QNGmKM)
