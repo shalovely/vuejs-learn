@@ -60,11 +60,15 @@ https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
 
 https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
-	1.vue.js 简单结构  http://codepen.io/bhnddowinf/pen/EKNEPd
-	2.使用文字框 http://codepen.io/bhnddowinf/pen/QNGmKM
-	3.双向绑定 http://codepen.io/bhnddowinf/pen/GZNxro
-	4.反转字串，按钮操作数据 http://codepen.io/bhnddowinf/pen/KzNoay
-	5.综合 http://codepen.io/bhnddowinf/pen/EKNEwr
+	1.[vue.js 简单结构]  (http://codepen.io/bhnddowinf/pen/EKNEPd)
+
+	2.[使用文字框] (http://codepen.io/bhnddowinf/pen/QNGmKM)
+
+  3.[双向绑定] (http://codepen.io/bhnddowinf/pen/GZNxro)
+
+  4.[反转字串，按钮操作数据] (http://codepen.io/bhnddowinf/pen/KzNoay)
+
+  5.[综合] (http://codepen.io/bhnddowinf/pen/EKNEwr)
 
 ##03.概述
 
