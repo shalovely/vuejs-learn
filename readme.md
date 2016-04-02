@@ -29,14 +29,16 @@
 
 仅供参考
 
-## vue.js 版本, 随著官网更新
+## vue.js 版本
+
+随著官网更新
 
 ## Donate
 
 小弟想把 vue.js 教学的视频，做的更好
 但现实上，这需要很多的时间以及家人的支持
 
-! [https://www.paypalobjects.com/zh_TW/TW/i/btn/btn_buynowCC_LG_wCUP.gif] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
+! [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C] (https://www.paypalobjects.com/zh_TW/TW/i/btn/btn_buynowCC_LG_wCUP.gif)
 
 
 ## 优酷视频专区(所有视频都会放在这，相关代码请见此 github)
