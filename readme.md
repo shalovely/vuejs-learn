@@ -38,7 +38,8 @@
 小弟想把 vue.js 教学的视频，做的更好
 但现实上，这需要很多的时间以及家人的支持
 
-![鼓励作者！](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
+! [鼓励作者] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
+
 
 ## 优酷视频专区(所有视频都会放在这，相关代码请见此 github)
 http://i.youku.com/u/UMzQxOTE4MDE5Mg==
