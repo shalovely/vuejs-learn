@@ -47,10 +47,17 @@ http://i.youku.com/u/UMzQxOTE4MDE5Mg==
 注：因为网路不稳，所以台湾不能直接浏览优酷网，也因为网路不稳，中国无法直接洌览 youtube，所以小弟在这两个视频大站，分别上传。以服务大家。
 
 #课程列表
+
 ##01.什么是 vuejs
+
+简介：介绍 vue.js 是什么。
+
 https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
 
 ##02.讲解起步
+
+简介：怎么样开始使用 vue.js
+
 https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
 	1.vue.js 简单结构  http://codepen.io/bhnddowinf/pen/EKNEPd
@@ -59,7 +66,9 @@ https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 	4.反转字串，按钮操作数据 http://codepen.io/bhnddowinf/pen/KzNoay
 	5.综合 http://codepen.io/bhnddowinf/pen/EKNEwr
 
-###03.概述
+##03.概述
+
+简介：讲解 vue.js 两个功能，响应式的数据绑定，组合的视图组件
 
 https://youtu.be/c1PKzLMPpfQ
 
@@ -75,8 +84,9 @@ https://youtu.be/c1PKzLMPpfQ
   5. [两栏式与 vue] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/005%20%E4%B8%A4%E6%A0%8F%E5%BC%8F%E4%B8%8E%20vue.html)
 
 
-### 4.Vue 实例
+## 04.Vue 实例
 
+简介：从构造器，建立 vue.js 的实例，而这个实例，有所谓的状态回调（实例生命周期），可以依业务撰写代码。
 
 https://youtu.be/QbEJ5pfgxw0
 
@@ -96,7 +106,9 @@ https://youtu.be/QbEJ5pfgxw0
 
   6.[生命周期 图示 Life Cycle demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/006%20life%20cycle.html)
 
-### 5.数据绑定语法
+## 05.数据绑定语法
+
+简介：vue.js 从 model 层，调出资料至 view 层显示以及交互。
 
 https://www.youtube.com/watch?v=K-T_i7X4lrY&feature=youtu.be
 
@@ -121,7 +133,6 @@ http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
 
   9.[filters](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/006%20filters.html)
 
-
   10.[filter 传参](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/007%20filters%20%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E8%BF%87%E6%BB%A4%E5%99%A8.html)
 
   11.[filter 串联](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/007%20filters%20%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E8%BF%87%E6%BB%A4%E5%99%A8.html)
@@ -135,3 +146,11 @@ http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
   15.[指令 事件](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/012%20%E6%8C%87%E4%BB%A4-%E4%BA%8B%E4%BB%B6.html)
 
   16.[指令 修饰符](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/013%20%E6%8C%87%E4%BB%A4%E4%BF%AE%E9%A5%B0%E7%AC%A6.html)
+
+
+## 06.计算属性
+
+简介：将 model 层的资料，依 js 表达式，呈现业务逻辑。
+
+
+
