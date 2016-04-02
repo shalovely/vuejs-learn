@@ -158,6 +158,9 @@ http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
 
 简介：将 model 层的资料，依 js 表达式，呈现业务逻辑。
 
+https://youtu.be/T5faXmjGEgc
+
+
 #### 此章范例如下：
 
   1. [计算属性基本] (https://github.com/bhnddowinf/vuejs-learn/blob/master/06/001%20Computed%20Properties%20Basic.html)
