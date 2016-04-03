@@ -10,14 +10,15 @@
 	2.网站开发
 	3.企业资源规划系统
 
-手机：0922-731455
+  手机：0922-731455
 
-信箱：bhnddowinf@yahoo.com.tw
+  信箱：bhnddowinf@yahoo.com.tw
 
 #豪哥的QQ群
-小弟在中国有一个爱好前端的朋友，网名：豪情，不断贡献自已的知识分享最先进的前端资讯，带领着很多人学习前端。
+  小弟在中国有一个爱好前端的朋友，网名：豪情，不断贡献自已的知识分享最先进的前端资讯，带领着很多人学习前端。
 
-小弟有幸能结交豪哥，以下是中国最专业的前端群
+  小弟有幸能结交豪哥，以下是中国最专业的前端群
+
 * 	Vuejs 364912432
 * 	Angularjs 238251402
 * 	React 530415177
@@ -31,34 +32,34 @@
 
 ## vue.js 版本
 
-随著官网更新
+  随著官网更新, 因为尤雨溪大神，不断努力改良 vue.js , 所以 小凡讲解的章节，太旧时，会重新再讲解一次(不过备课作视频真的很花时间，不会马上跟进)
 
 ## Donate
 
-小弟想把 vue.js 教学的视频，做的更好
-但现实上，这需要很多的时间以及家人的支持
+  小弟想把 vue.js 教学的视频，做的更好
+  但现实上，这需要很多的时间以及家人的支持
 
-→→→→[请大力的鼓励作者] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
+  →→→→[请大力的鼓励作者] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
 
 
 ## 优酷视频专区(所有视频都会放在这，相关代码请见此 github)
-http://i.youku.com/u/UMzQxOTE4MDE5Mg==
+  http://i.youku.com/u/UMzQxOTE4MDE5Mg==
 
-注：因为网路不稳，所以台湾不能直接浏览优酷网，也因为网路不稳，中国无法直接洌览 youtube，所以小弟在这两个视频大站，分别上传。以服务大家。
+  注：因为网路不稳，所以台湾不能直接浏览优酷网，也因为网路不稳，中国无法直接洌览 youtube，所以小弟在这两个视频大站，分别上传。以服务大家。
 
 #课程列表
 
 ##01.什么是 vuejs
 
-简介：介绍 vue.js 是什么。
+  简介：介绍 vue.js 是什么。
 
-https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
+  https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
 
 ##02.讲解起步
 
-简介：怎么样开始使用 vue.js
+  简介：怎么样开始使用 vue.js
 
-https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
+  https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
 #### 此章范例如下
 
@@ -74,11 +75,12 @@ https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
 ##03.概述
 
-简介：讲解 vue.js 两个功能，响应式的数据绑定，组合的视图组件
+  简介：讲解 vue.js 两个功能，响应式的数据绑定，组合的视图组件
 
-https://youtu.be/c1PKzLMPpfQ
+  https://youtu.be/c1PKzLMPpfQ
 
 #### 此章范例如下：
+
   1. [响应式数据绑定 demo] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/001%20Reactive%20data%20binding%20demo.html)
 
   2. [响应式数据绑 demo2] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/002%20Reactive%20data%20binding%20second%20demo.html)
@@ -92,14 +94,15 @@ https://youtu.be/c1PKzLMPpfQ
 
 ## 04.Vue 实例
 
-简介：从构造器，建立 vue.js 的实例，而这个实例，有所谓的状态回调（实例生命周期），可以依业务撰写代码。
+  简介：从构造器，建立 vue.js 的实例，而这个实例，有所谓的状态回调（实例生命周期），可以依业务撰写代码。
 
-https://youtu.be/QbEJ5pfgxw0
+  https://youtu.be/QbEJ5pfgxw0
 
 
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
 
 #### 此章范例如下：
+
   1.[构造器 Constructor demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/001%20Constructor%20demo.html)
 
   2.[组件 Component demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/002%20component.html)
@@ -114,13 +117,14 @@ https://youtu.be/QbEJ5pfgxw0
 
 ## 05.数据绑定语法
 
-简介：vue.js 从 model 层，调出资料至 view 层显示以及交互。
+  简介：vue.js 从 model 层，调出资料至 view 层显示以及交互。
 
-https://www.youtube.com/watch?v=K-T_i7X4lrY&feature=youtu.be
+  https://www.youtube.com/watch?v=K-T_i7X4lrY&feature=youtu.be
 
-http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
+  http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
 
 #### 此章范例如下：
+
   1.[view-interpolations-text](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/001%20view-interpolations-text%20.html)
 
   2.[Raw Html](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/002%20Raw%20Html.html)
@@ -156,9 +160,9 @@ http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
 
 ## 06.计算属性
 
-简介：将 model 层的资料，依 js 表达式，呈现业务逻辑。
+  简介：将 model 层的资料，依 js 表达式，呈现业务逻辑。
 
-https://youtu.be/T5faXmjGEgc
+  https://youtu.be/T5faXmjGEgc
 
 
 
