@@ -55,11 +55,16 @@
 
   https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
 
+  链接: http://pan.baidu.com/s/1jI6fvJw 密码: 32g1
+
 ##02.讲解起步
 
   简介：怎么样开始使用 vue.js
 
   https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
+
+  链接: http://pan.baidu.com/s/1jHOgbNC 密码: yi8t
+
 
 #### 此章范例如下
 
@@ -78,6 +83,8 @@
   简介：讲解 vue.js 两个功能，响应式的数据绑定，组合的视图组件
 
   https://youtu.be/c1PKzLMPpfQ
+
+  链接: http://pan.baidu.com/s/1kV1Z8Uj 密码: acjv
 
 #### 此章范例如下：
 
@@ -98,6 +105,7 @@
 
   https://youtu.be/QbEJ5pfgxw0
 
+  链接: http://pan.baidu.com/s/1gfpW2Qn 密码: je3e
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
 
@@ -122,6 +130,8 @@
   https://www.youtube.com/watch?v=K-T_i7X4lrY&feature=youtu.be
 
   http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
+
+  链接: http://pan.baidu.com/s/1c2qI6e0 密码: wvg6
 
 #### 此章范例如下：
 
@@ -164,6 +174,7 @@
 
   https://youtu.be/T5faXmjGEgc
 
+  链接: http://pan.baidu.com/s/1gfjQQyB 密码: 7ect
 
 
 #### 此章范例如下：
