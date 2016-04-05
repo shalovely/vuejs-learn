@@ -189,5 +189,6 @@
 
   5. [computed sum](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/005%20sum.html)
 
-
+## License
+MIT
 
