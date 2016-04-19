@@ -46,8 +46,8 @@
   http://i.youku.com/u/UMzQxOTE4MDE5Mg==
 
 	注：优酷视频专区，上传不易，自计算属性(006)以后章节之视频，以百度云为主(上传较快)。
-	
-	
+
+
 ##01.什么是 vuejs
 
   简介：介绍 vue.js 是什么。
@@ -187,6 +187,48 @@
   4. [computed getter , setter demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/004%20get%20and%20set.html)
 
   5. [computed sum](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/005%20sum.html)
+
+## 07.Class 与 Style 绑定
+
+  简介：vue.js 对于 css ，如何轻便使用 class, style 。
+
+  1.[BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
+
+  2.[Object Styntax](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/002%20Object%20Syntax.html)
+
+  3.[object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/003%20object.html)
+
+  4.[object2](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/003-1%20object.html)
+
+  5.[array](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/004%20Array.html)
+
+  6.[list conditionally](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/005%20%20list%20conditionally.html)
+
+  7.[multiple conditional classes](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/006%20%20multiple%20conditional%20classes.html)
+
+  8.[binding inline styles](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/007%20BindingInlineStyles.html)
+
+  9.[binding object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
+
+  10.[binding object1](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008-1%20BindingObject.html)
+
+  11.[multiple style objects](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/009%20multiple%20style%20objects.html%20)
+
+  12.[transform](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/010%20transform.html)
+
+## 08.条件渲染
+
+  简介：v-if, v-show 观念或使用。
+
+  1.[v-if](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/01%20v-if%20demo.html)
+
+  2.[template](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/02%20template.html)
+
+  3.[v-show](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/03%20v-show.html)
+
+  4.[v-else](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/04%20v-else.html)
+
+  5.[v-if many](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html)
 
 ## License
 MIT
