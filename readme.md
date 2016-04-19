@@ -211,6 +211,7 @@
   8.[binding inline styles](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/007%20BindingInlineStyles.html)
 
   9.[binding object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
+
 https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html
   10.[binding object1](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008-1%20BindingObject.html)
 
