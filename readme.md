@@ -192,6 +192,8 @@
 
   简介：vue.js 对于 css ，如何轻便使用 class, style 。
 
+  https://youtu.be/uXOdJZfY-WU
+
   1.[BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
 
   2.[Object Styntax](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/002%20Object%20Syntax.html)
@@ -209,7 +211,7 @@
   8.[binding inline styles](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/007%20BindingInlineStyles.html)
 
   9.[binding object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
-
+https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html
   10.[binding object1](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008-1%20BindingObject.html)
 
   11.[multiple style objects](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/009%20multiple%20style%20objects.html%20)
@@ -219,6 +221,8 @@
 ## 08.条件渲染
 
   简介：v-if, v-show 观念或使用。
+
+  https://youtu.be/5nG0k1VN7ro
 
   1.[v-if](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/01%20v-if%20demo.html)
 
