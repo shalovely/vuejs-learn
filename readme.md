@@ -194,6 +194,8 @@
 
   https://youtu.be/uXOdJZfY-WU
 
+  链接: http://pan.baidu.com/s/1nvBzHDf 密码: hyj5
+
   1.[BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
 
   2.[Object Styntax](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/002%20Object%20Syntax.html)
@@ -224,6 +226,9 @@ https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html
   简介：v-if, v-show 观念或使用。
 
   https://youtu.be/5nG0k1VN7ro
+
+  链接: http://pan.baidu.com/s/1jHV8vOU 密码: e47p
+
 
   1.[v-if](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/01%20v-if%20demo.html)
 
