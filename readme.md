@@ -213,9 +213,8 @@
 
   8.[绑定内联样式，binding inline styles](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/007%20BindingInlineStyles.html)
 
-  9.[绑定物件，binding object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
+  9.[绑定物件，binding object] (https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
 
-https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html
   10.[绑定物件1，binding object1](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008-1%20BindingObject.html)
 
   11.[数组语法，multiple style objects](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/009%20multiple%20style%20objects.html%20)
