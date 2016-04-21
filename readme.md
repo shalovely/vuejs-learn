@@ -88,11 +88,11 @@
 
 #### 此章范例如下：
 
-  1. [响应式数据绑定 demo] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/001%20Reactive%20data%20binding%20demo.html)
+  1. [响应式数据绑定] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/001%20Reactive%20data%20binding%20demo.html)
 
-  2. [响应式数据绑 demo2] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/002%20Reactive%20data%20binding%20second%20demo.html)
+  2. [响应式数据绑] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/002%20Reactive%20data%20binding%20second%20demo.html)
 
-  3. [定义模板，注册组件](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/003-%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF%EF%BC%8C%E6%B3%A8%E5%86%8C%E7%BB%84%E4%BB%B6.html)
+  3. [定义模板，注册组件] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/003-%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF%EF%BC%8C%E6%B3%A8%E5%86%8C%E7%BB%84%E4%BB%B6.html)
 
   4. [两栏式] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/004%20%E4%B8%A4%E6%A0%8F%E5%BC%8F.html)
 
@@ -111,17 +111,17 @@
 
 #### 此章范例如下：
 
-  1.[构造器 Constructor demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/001%20Constructor%20demo.html)
+  1.[构造器 Constructor](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/001%20Constructor%20demo.html)
 
-  2.[组件 Component demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/002%20component.html)
+  2.[组件 Component](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/002%20component.html)
 
-  3.[属性与方法 Properties and Methods demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/003%20Properties-and-Methods.html)
+  3.[属性与方法 Properties and Methods ](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/003%20Properties-and-Methods.html)
 
-  4.[属性与方法 Properties and Methods demo 2](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/004%20Properties-and-Methods%202.html)
+  4.[属性与方法 Properties and Methods 2](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/004%20Properties-and-Methods%202.html)
 
-  5.[实例生命周期 Instance Lifecycle dmeo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/005%20Instance-Lifecycle.html)
+  5.[实例生命周期 Instance Lifecycle ](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/005%20Instance-Lifecycle.html)
 
-  6.[生命周期 图示 Life Cycle demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/006%20life%20cycle.html)
+  6.[生命周期 图示 Life Cycle](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/006%20life%20cycle.html)
 
 ## 05.数据绑定语法
 
@@ -181,13 +181,13 @@
 
   1. [计算属性基本] (https://github.com/bhnddowinf/vuejs-learn/blob/master/06/001%20Computed%20Properties%20Basic.html)
 
-  2. [watch demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/002%20watch%20demo.html)
+  2. [观察 watch demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/002%20watch%20demo.html)
 
-  3. [computed demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/003%20Computed%20demo.html)
+  3. [计算属性 computed demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/003%20Computed%20demo.html)
 
-  4. [computed getter , setter demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/004%20get%20and%20set.html)
+  4. [计算属性 2 ，computed getter , setter demo](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/004%20get%20and%20set.html)
 
-  5. [computed sum](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/005%20sum.html)
+  5. [计算属性 综合示例，computed sum](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/005%20sum.html)
 
 ## 07.Class 与 Style 绑定
 
@@ -197,15 +197,15 @@
 
   链接: http://pan.baidu.com/s/1nvBzHDf 密码: hyj5
 
-  1.[BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
+  1.[绑定html class, BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
 
-  2.[Object Styntax](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/002%20Object%20Syntax.html)
+  2.[对象语法，Object Styntax](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/002%20Object%20Syntax.html)
 
-  3.[object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/003%20object.html)
+  3.[对象语法1，object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/003%20object.html)
 
-  4.[object2](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/003-1%20object.html)
+  4.[对象语法2，object2](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/003-1%20object.html)
 
-  5.[array](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/004%20Array.html)
+  5.[阵列语法，array](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/004%20Array.html)
 
   6.[list conditionally](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/005%20%20list%20conditionally.html)
 
