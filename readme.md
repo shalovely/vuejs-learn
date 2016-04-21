@@ -207,20 +207,20 @@
 
   5.[阵列语法，array](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/004%20Array.html)
 
-  6.[list conditionally](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/005%20%20list%20conditionally.html)
+  6.[三元表达式，list conditionally](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/005%20%20list%20conditionally.html)
 
-  7.[multiple conditional classes](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/006%20%20multiple%20conditional%20classes.html)
+  7.[数组与对象语法，multiple conditional classes](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/006%20%20multiple%20conditional%20classes.html)
 
-  8.[binding inline styles](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/007%20BindingInlineStyles.html)
+  8.[绑定内联样式，binding inline styles](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/007%20BindingInlineStyles.html)
 
-  9.[binding object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
+  9.[绑定物件，binding object](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008%20BindingObject.html)
 
 https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html
-  10.[binding object1](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008-1%20BindingObject.html)
+  10.[绑定物件1，binding object1](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/008-1%20BindingObject.html)
 
-  11.[multiple style objects](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/009%20multiple%20style%20objects.html%20)
+  11.[数组语法，multiple style objects](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/009%20multiple%20style%20objects.html%20)
 
-  12.[transform](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/010%20transform.html)
+  12.[自动添加前缀，transform](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/010%20transform.html)
 
 ## 08.条件渲染
 
