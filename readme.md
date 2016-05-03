@@ -256,6 +256,12 @@
 
   5.[v-if many](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/05%20v-if%20many.html)
 
+## 09.列表渲染
+
+  简介：遍历 model
+
+
+
 ## License
 MIT
 
