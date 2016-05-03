@@ -262,6 +262,9 @@
 
   https://youtu.be/mKWnus9_EpU
 
+  链接: http://pan.baidu.com/s/1c0r2ZO 密码: u49d
+
+
   1.[v-for](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/01%20v-for.html)
 
   2.[v-for1](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/02%20v-for1.html)
