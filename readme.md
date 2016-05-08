@@ -293,7 +293,18 @@
 
 ## 10 方法与事件处理
 
+  简介：事件执行方法
 
+  https://youtu.be/gdgbtTpNMYU
+
+
+  1.[01 methoder handler.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/01%20methoder%20handler.html)
+
+  2.[02 InlineStatementHandler.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/02%20InlineStatementHandler.html)
+
+  3.[03 $event.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/03%20%24event.html)
+
+  4.[04 keyup.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/04%20keyup.html)
 
 
 
