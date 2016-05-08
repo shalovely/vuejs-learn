@@ -297,6 +297,7 @@
 
   https://youtu.be/gdgbtTpNMYU
 
+  链接: http://pan.baidu.com/s/1boPHWn1 密码: vx56
 
   1.[01 methoder handler.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/01%20methoder%20handler.html)
 
