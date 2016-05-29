@@ -364,18 +364,18 @@
 
   3.[java script hooks](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/03%20java%20script%20hooks.html)
 
-  4.[04 custom transition classes animation.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes%20animation.html)
+  4.[custom transition classes animation](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes%20animation.html)
 
-  5.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes.html)
+  5.[custom transition classes](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes.html)
 
-  6.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/06%202animation.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/06%202animation.html)
+  6.[2animation](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/06%202animation.html)
 
-  7.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/07%20animations.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/07%20animations.html)
+  7.[animations](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/07%20animations.html)
 
-  8.[08 jsTransitions.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/08%20jsTransitions.html)
+  8.[jsTransitions](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/08%20jsTransitions.html)
 
 
-  9.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/09%20Staggering%20Transitions.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/09%20Staggering%20Transitions.html)
+  9.[Staggering Transitions](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/09%20Staggering%20Transitions.html)
 
 ## License
 
