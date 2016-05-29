@@ -315,21 +315,69 @@
 
   链接: https://pan.baidu.com/s/1pKDPjej 密码: 9gy4
 
-  https://github.com/bhnddowinf/vuejs-learn/blob/master/11/01%20text.html
+  1.[textbox] (https://github.com/bhnddowinf/vuejs-learn/blob/master/11/01%20text.html)
 
-  https://github.com/bhnddowinf/vuejs-learn/blob/master/11/02%20checked.html
+  2.[checked](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/02%20checked.html)
 
+  3.[checked array](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/03%20checked%20array.html)
 
+  4.[radio] (https://github.com/bhnddowinf/vuejs-learn/blob/master/11/04%20radio.html)
+
+  5.[select ](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/05%20select.html)
+
+  6.[select 1](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/06%20select1.html)
+
+  7.[select 2](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/07%20select2.html)
+
+  8.[value bindings](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/08%20valuebindings.html)
+
+  9.[checkbox](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/09%20checkbox.html)
+
+  10.[radio](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/10%20radio.html)
+
+  11.[select options](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/11%20select%20options.html)
+
+  12.[lazy](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/12%20lazy.html)
+
+  13.[number](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/13%20number.html)
+
+  14.[debounce](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/14%20debounce.html)
+
+  15.[onKeyup | bebounce 500](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/15%20debounce1.html)
 
 
 ## 12 过渡
 
   简介：css 动画与 vuejs
 
+  https://youtu.be/LXGGcnW6Oas
+
   链接: https://pan.baidu.com/s/1jIEV7fC 密码: 2axj
 
+  [css3 animations](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/css3%20animationend.html)
 
+  [css3 transitions](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/css3%20transitions.html)
+
+  1.[css transitions](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/01%20css%20transitions.html)
+
+  2.[dynamic binding transitions](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/02%20dynamic%20binding%20transitions.html)
+
+  3.[java script hooks](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/03%20java%20script%20hooks.html)
+
+  4.[04 custom transition classes animation.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes%20animation.html)
+
+  5.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/04%20custom%20transition%20classes.html)
+
+  6.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/06%202animation.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/06%202animation.html)
+
+  7.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/07%20animations.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/07%20animations.html)
+
+  8.[08 jsTransitions.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/08%20jsTransitions.html)
+
+
+  9.[https://github.com/bhnddowinf/vuejs-learn/blob/master/12/09%20Staggering%20Transitions.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/09%20Staggering%20Transitions.html)
 
 ## License
-MIT
+
+  [MIT](http://opensource.org/licenses/MIT)
 
