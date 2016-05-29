@@ -309,8 +309,24 @@
 
 ## 11 表单控件与绑定
 
+  简介：表单元素与双向绑定 model
+
+  https://youtu.be/2R0DC3vbWqk
+
+  链接: https://pan.baidu.com/s/1pKDPjej 密码: 9gy4
+
+  https://github.com/bhnddowinf/vuejs-learn/blob/master/11/01%20text.html
+
+  https://github.com/bhnddowinf/vuejs-learn/blob/master/11/02%20checked.html
+
+
+
 
 ## 12 过渡
+
+  简介：css 动画与 vuejs
+
+  链接: https://pan.baidu.com/s/1jIEV7fC 密码: 2axj
 
 
 
