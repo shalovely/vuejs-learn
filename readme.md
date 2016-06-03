@@ -394,21 +394,36 @@
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.007.jpeg)
 
-  1.[is](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/01%20is.html)
+  1.[is.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/01%20is.html)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.008.jpeg)
 
-  2.[extend](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/01%20extend.html)
+  2.[extend.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/01%20extend.html)
 
-  3.[component](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/02%20component.html)
+  3.[component.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/02%20component.html)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.009.jpeg)
 
+  4.[replace.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/03%20replace.html)
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.010.jpeg)
+
+  5.[child.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/04%20child.html)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.011.jpeg)
 
+  6.[Registration Sugar.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/05%20Registration%20Sugar.html)
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.012.jpeg)
+
+  7.[06 shared across all instances.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/06%20shared%20across%20all%20instances.html)
+
+  8.[07 shared across all instances 1.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/07%20shared%20across%20all%20instances%201.html)
+
+  9.[08 shared across all instances 2.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/08%20shared%20across%20all%20instances%202.html)
+
+  10.[09 Component Option Caveats el.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/09%20Component%20Option%20Caveats%20el.html)
+
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.013.jpeg)
 
