@@ -394,7 +394,13 @@
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.007.jpeg)
 
+  1.[is](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/01%20is.html)
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.008.jpeg)
+
+  2.[extend](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/01%20extend.html)
+
+  3.[component](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/02%20component.html)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.009.jpeg)
 
