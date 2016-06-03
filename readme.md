@@ -380,21 +380,36 @@
 
 ## 13 组件(第一篇)
 
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.001.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.002.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.003.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.004.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.005.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.006.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.007.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.008.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.009.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.010.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.011.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.012.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.013.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.014.jpeg)
-  (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.015.jpeg)
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.015.jpeg)
+
 
 
 
