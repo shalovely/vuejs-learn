@@ -429,6 +429,15 @@
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.014.jpeg)
 
+  11.[10 is1.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/10%20is1.html)
+
+  12.[11 use x-template.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/11%20use%20x-template.html)
+
+  13.[12 use template.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/12%20use%20template.html)
+
+  14.[13 use table template.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/13%20use%20table%20template.html)
+
+  15.[14 use table tbody.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/14%20use%20table%20tbody.html)
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.015.jpeg)
 
 
