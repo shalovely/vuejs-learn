@@ -94,7 +94,7 @@
 
   https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
 
-  链接: http://pan.baidu.com/s/1jI6fvJw 密码: 32g1
+  https://pan.baidu.com/s/1hsay65A
 
 ##02.讲解起步
 
@@ -102,8 +102,7 @@
 
   https://www.youtube.com/watch?v=avMPdV0avok&feature=youtu.be
 
-  链接: http://pan.baidu.com/s/1jHOgbNC 密码: yi8t
-
+  https://pan.baidu.com/s/1gfFHZVH
 
 #### 此章范例如下
 
@@ -123,7 +122,7 @@
 
   https://youtu.be/c1PKzLMPpfQ
 
-  链接: http://pan.baidu.com/s/1kV1Z8Uj 密码: acjv
+  https://pan.baidu.com/s/1gfFHZVH
 
 #### 此章范例如下：
 
@@ -144,7 +143,7 @@
 
   https://youtu.be/QbEJ5pfgxw0
 
-  链接: http://pan.baidu.com/s/1gfpW2Qn 密码: je3e
+  https://pan.baidu.com/s/1c5IOBO
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
 
@@ -170,7 +169,7 @@
 
   http://v.youku.com/v_show/id_XMTUxMzU3NzcwOA==.html
 
-  链接: http://pan.baidu.com/s/1c2qI6e0 密码: wvg6
+  https://pan.baidu.com/s/1bpFkmIz
 
 #### 此章范例如下：
 
@@ -213,7 +212,7 @@
 
   https://youtu.be/T5faXmjGEgc
 
-  链接: http://pan.baidu.com/s/1gfjQQyB 密码: 7ect
+  https://pan.baidu.com/s/1kVNbzZh
 
 
 #### 此章范例如下：
@@ -234,7 +233,7 @@
 
   https://youtu.be/uXOdJZfY-WU
 
-  链接: http://pan.baidu.com/s/1nvBzHDf 密码: hyj5
+  https://pan.baidu.com/s/1bDAgZ8
 
   1.[绑定html class, BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
 
@@ -266,7 +265,7 @@
 
   https://youtu.be/5nG0k1VN7ro
 
-  链接: http://pan.baidu.com/s/1jHV8vOU 密码: e47p
+  https://pan.baidu.com/s/1kVNbzZT
 
 
   1.[v-if](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/01%20v-if%20demo.html)
@@ -285,8 +284,7 @@
 
   https://youtu.be/mKWnus9_EpU
 
-  链接: http://pan.baidu.com/s/1c0r2ZO 密码: u49d
-
+  https://pan.baidu.com/s/1skBdGdv
 
   1.[v-for](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/01%20v-for.html)
 
@@ -320,7 +318,7 @@
 
   https://youtu.be/gdgbtTpNMYU
 
-  链接: http://pan.baidu.com/s/1boPHWn1 密码: vx56
+  https://pan.baidu.com/s/1bFBZoM
 
   1.[01 methoder handler.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/01%20methoder%20handler.html)
 
@@ -336,7 +334,7 @@
 
   https://youtu.be/2R0DC3vbWqk
 
-  链接: https://pan.baidu.com/s/1pKDPjej 密码: 9gy4
+  https://pan.baidu.com/s/1qYd5Y5e
 
   1.[textbox] (https://github.com/bhnddowinf/vuejs-learn/blob/master/11/01%20text.html)
 
@@ -375,7 +373,7 @@
 
   https://youtu.be/LXGGcnW6Oas
 
-  链接: https://pan.baidu.com/s/1jIEV7fC 密码: 2axj
+  https://pan.baidu.com/s/1nvpNxED
 
   [css3 animations](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/css3%20animationend.html)
 
