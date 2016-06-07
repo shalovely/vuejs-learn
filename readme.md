@@ -401,6 +401,10 @@
 
 ## 13 组件(第一篇)
 
+  https://youtu.be/-sFCcszkXBU
+
+  https://pan.baidu.com/s/1slHz9yX
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.001.jpeg)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.002.jpeg)
