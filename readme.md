@@ -12,10 +12,35 @@
 
 # 目录
 
-  1.[01什么是-vuejs](https://github.com/bhnddowinf/vuejs-learn#01什么是-vuejs)
+  [关于台湾小凡](https://github.com/bhnddowinf/vuejs-learn#台湾小凡)
 
+  [豪哥的qq群](https://github.com/bhnddowinf/vuejs-learn#豪哥的qq群)
 
+  1.[什么是-vuejs](https://github.com/bhnddowinf/vuejs-learn#01什么是-vuejs)
 
+  2.[讲解起步](https://github.com/bhnddowinf/vuejs-learn#02讲解起步)
+
+  3.[概述](https://github.com/bhnddowinf/vuejs-learn#03概述)
+
+  4.[vue-实例](https://github.com/bhnddowinf/vuejs-learn#04vue-实例)
+
+  5.[数据绑定语法](https://github.com/bhnddowinf/vuejs-learn#05数据绑定语法)
+
+  6.[计算属性](https://github.com/bhnddowinf/vuejs-learn#06计算属性)
+
+  7.[class-与-style-绑定](https://github.com/bhnddowinf/vuejs-learn#07class-与-style-绑定)
+
+  8.[条件渲染](https://github.com/bhnddowinf/vuejs-learn#08条件渲染)
+
+  9.[列表渲染](https://github.com/bhnddowinf/vuejs-learn#09列表渲染)
+
+  10.[方法与事件处理](https://github.com/bhnddowinf/vuejs-learn#10-方法与事件处理)
+
+  11.[表单控件与绑定](https://github.com/bhnddowinf/vuejs-learn#11-表单控件与绑定)
+
+  12.[过渡](https://github.com/bhnddowinf/vuejs-learn#12-过渡)
+
+  13.[组件第一篇](https://github.com/bhnddowinf/vuejs-learn#13-组件第一篇)
 
 #台湾小凡
 
@@ -55,13 +80,6 @@
   随著官网更新, 因为尤雨溪大神，不断努力改良 vue.js , 所以 小凡讲解的章节，太旧时，会重新再讲解一次(不过备课作视频真的很花时间，不会马上跟进)
 
 
-
-## Donate
-
-  小弟想把 vue.js 教学的视频，做的更好
-  但现实上，这需要很多的时间以及家人的支持
-
-  →→→→[请大力的鼓励作者] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
 
 
 ## 优酷视频专区(所有视频都会放在这，相关代码请见此 github)
@@ -453,4 +471,11 @@
 ## License
 
   [MIT](http://opensource.org/licenses/MIT)
+
+## Donate
+
+  小弟想把 vue.js 教学的视频，做的更好
+  但现实上，这需要很多的时间以及家人的支持
+
+  →→→→[请大力的鼓励作者] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
 
