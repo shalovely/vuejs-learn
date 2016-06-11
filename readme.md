@@ -471,6 +471,8 @@
 
 ## 13 组件(第二篇)
 
+  http://pan.baidu.com/s/1bp0rrOz
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.001.jpeg)
   1.[2-1 passing data with props.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-1%20passing%20data%20with%20props.html) 
 
