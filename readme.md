@@ -466,8 +466,14 @@
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/1/1.015.jpeg)
 
 
+## 13 组件(第二篇)
 
-
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.001.jpeg)
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.002.jpeg)
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.003.jpeg)
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.004.jpeg)
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.005.jpeg)
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.006.jpeg)
 
 
 ## License
