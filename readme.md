@@ -500,5 +500,5 @@
 
   →→→→[请大力的鼓励作者] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=77E3EEHBD3N5C)
 
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/wechat_qrcode.jpg)
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/wechat_qrcode.png)
 
