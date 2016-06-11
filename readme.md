@@ -42,6 +42,9 @@
 
   13.[组件第一篇](https://github.com/bhnddowinf/vuejs-learn#13-组件第一篇)
 
+  13.[组件第二篇](https://github.com/bhnddowinf/vuejs-learn#13-组件第二篇)
+
+
 #台湾小凡
 
 目前在台湾的中小企业
@@ -468,13 +471,23 @@
 
 ## 13 组件(第二篇)
 
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.001.jpeg)
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.002.jpeg)
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.003.jpeg)
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.004.jpeg)
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.005.jpeg)
-![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.006.jpeg)
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.001.jpeg)
+  1.[2-1 passing data with props.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-1%20passing%20data%20with%20props.html) 
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.002.jpeg)
+  2.[2-2 kebab-case.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-2%20kebab-case.html)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.003.jpeg)
+  3.[2-3 Dynamic Props.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-3%20Dynamic%20Props.html)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.004.jpeg)
+  4.[2-4 Literal vs Dynamic.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-4%20Literal%20vs%20Dynamic.html)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.005.jpeg)
+  5.[2-5 Prop Binding Types.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-5%20Prop%20Binding%20Types.html)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.006.jpeg)
+  6.[2-6 Prop Validation.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-6%20Prop%20Validation.html)
 
 ## License
 
