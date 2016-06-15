@@ -44,6 +44,7 @@
 
   13.[组件第二篇](https://github.com/bhnddowinf/vuejs-learn#13-组件第二篇)
 
+  13.[组件第三篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第三篇)
 
 #台湾小凡
 
@@ -514,13 +515,23 @@
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.001.jpeg)
 
+  1.[3-1 Parent Chain](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-1%20Parent%20Chain.html)
+
+  https://youtu.be/X8i2Foz5NHQ
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.002.jpeg)
+
+  2.[3-2 Custom Events.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-2%20Custom%20Events.html)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.003.jpeg)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.004.jpeg)
 
+  3.[3-3 v-on for Custom Events](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-3%20v-on%20for%20Custom%20Events.html)
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.005.jpeg)
+
+  4.[3-4 Child Component Refs.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-4%20Child%20Component%20Refs.html)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.006.jpeg)
 
