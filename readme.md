@@ -523,15 +523,21 @@
 
   2.[3-2 Custom Events.html] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-2%20Custom%20Events.html)
 
+  https://youtu.be/Jq3djs2cE7Q
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.003.jpeg)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.004.jpeg)
 
   3.[3-3 v-on for Custom Events](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-3%20v-on%20for%20Custom%20Events.html)
 
+  https://youtu.be/DeQZ_iVwd7I
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.005.jpeg)
 
   4.[3-4 Child Component Refs.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-4%20Child%20Component%20Refs.html)
+
+  https://youtu.be/hULS35nLdcw
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.006.jpeg)
 
