@@ -513,6 +513,8 @@
 
 ## 13 组件(第三篇)
 
+  http://pan.baidu.com/s/1jHOjCSQ
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.001.jpeg)
 
   1.[3-1 Parent Chain](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3-1%20Parent%20Chain.html)
