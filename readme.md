@@ -481,34 +481,48 @@
 
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.002.jpeg)
-  
+
   2.[2-2 kebab-case.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-2%20kebab-case.html)
-  
+
   https://youtu.be/GFFdXcfPc_g
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.003.jpeg)
-  
+
   3.[2-3 Dynamic Props.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-3%20Dynamic%20Props.html)
-  
+
   https://youtu.be/97ssmFiu3SM
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.004.jpeg)
-  
+
   4.[2-4 Literal vs Dynamic.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-4%20Literal%20vs%20Dynamic.html)
-  
+
   https://youtu.be/EmOny-Z3JP4
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.005.jpeg)
-  
+
   5.[2-5 Prop Binding Types.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-5%20Prop%20Binding%20Types.html)
-  
+
   https://youtu.be/kVhxAukW_g8
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2/%E7%BB%84%E4%BB%B62.006.jpeg)
-  
+
   6.[2-6 Prop Validation.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/2-6%20Prop%20Validation.html)
-  
+
   https://youtu.be/-Q1dklWL9jY
+
+## 13 组件(第三篇)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.006.jpeg)
 
 
 
