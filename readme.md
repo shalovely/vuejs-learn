@@ -4,7 +4,7 @@
   
   [youtube vue.js 教学视频区] (https://www.youtube.com/playlist?list=PLxrdGdTjEw4S51aOvZGOJ-JCeCky2I2H-)
   
-  [百度云 vue.js 教学视频区] (https://www.youtube.com/playlist?list=PLxrdGdTjEw4S51aOvZGOJ-JCeCky2I2H-)
+  [百度云 vue.js 教学视频区] (http://pan.baidu.com/share/home?uk=3515901940#category/type=0)
 
 #视频的目的
 
