@@ -44,11 +44,13 @@
 
   12.[过渡](https://github.com/bhnddowinf/vuejs-learn#12-过渡)
 
-  13.[组件第一篇](https://github.com/bhnddowinf/vuejs-learn#13-组件第一篇)
+  13.[组件第一篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第一篇)
 
-  13.[组件第二篇](https://github.com/bhnddowinf/vuejs-learn#13-组件第二篇)
+  13.[组件第二篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第二篇)
 
   13.[组件第三篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第三篇)
+
+  13.[组件第四篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第四篇)
 
 #台湾小凡
 
@@ -550,6 +552,15 @@
 
 ## 13 组件(第四篇)
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.005.jpeg)
 
 
 ## License
