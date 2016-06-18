@@ -1,9 +1,9 @@
 #视频主旨：
   vue.js 1 官网讲解
   注：vue.js 2 如果公布且官网有2.0版，此站会暂停更新(因为 vue.js 1,将被作废)，所以会另建 vue.js 2 官网讲解(反正我也会任性，要作废的东西，不会讲解教学)。
-  
+
   [youtube vue.js 教学视频区] (https://www.youtube.com/playlist?list=PLxrdGdTjEw4S51aOvZGOJ-JCeCky2I2H-)
-  
+
   [百度云 vue.js 教学视频区] (http://pan.baidu.com/share/home?uk=3515901940#category/type=0)
 
 #视频的目的
@@ -546,6 +546,9 @@
   https://youtu.be/hULS35nLdcw
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/3/%E7%BB%84%E4%BB%B63.006.jpeg)
+
+
+## 13 组件(第四篇)
 
 
 
