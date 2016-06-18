@@ -552,6 +552,8 @@
 
 ## 13 组件(第四篇)
 
+  http://pan.baidu.com/s/1c2hsN6K
+
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.001.jpeg)
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/4/%E7%BB%84%E4%BB%B64.002.jpeg)
