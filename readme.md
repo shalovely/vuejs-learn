@@ -360,6 +360,32 @@
 
   https://pan.baidu.com/s/1kVNbzZh
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/06/img/Computed%20Properties%20%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7.013.jpeg)
+
 
 #### 此章范例如下：
 
