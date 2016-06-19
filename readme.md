@@ -407,6 +407,43 @@
 
   https://pan.baidu.com/s/1bDAgZ8
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.015.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.016.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/img/class%20and%20style%20bindings.017.jpeg)
+
+
+
+
   1.[绑定html class, BindingHtmlClasses](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/001%20BindingHtmlClasses.html)
 
   2.[对象语法，Object Styntax](https://github.com/bhnddowinf/vuejs-learn/blob/master/07/002%20Object%20Syntax.html)
@@ -439,6 +476,30 @@
 
   https://pan.baidu.com/s/1kVNbzZT
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/img/%E6%9D%A1%E4%BB%B6%E6%B8%B2%E6%9F%93.012.jpeg)
+
 
   1.[v-if](https://github.com/bhnddowinf/vuejs-learn/blob/master/08/01%20v-if%20demo.html)
 
@@ -457,6 +518,43 @@
   https://youtu.be/mKWnus9_EpU
 
   https://pan.baidu.com/s/1skBdGdv
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.015.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.016.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.017.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/img/%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93.018.jpeg)
+
 
   1.[v-for](https://github.com/bhnddowinf/vuejs-learn/blob/master/09/01%20v-for.html)
 
@@ -492,6 +590,38 @@
 
   https://pan.baidu.com/s/1bFBZoM
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/img/%E6%96%B9%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E5%99%A8.015.jpeg)
+
+
+
   1.[01 methoder handler.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/01%20methoder%20handler.html)
 
   2.[02 InlineStatementHandler.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/10/02%20InlineStatementHandler.html)
@@ -507,6 +637,53 @@
   https://youtu.be/2R0DC3vbWqk
 
   https://pan.baidu.com/s/1qYd5Y5e
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.015.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.016.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.017.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.018.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.019.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.020.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.021.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.022.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/11/img/%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%BB%91%E5%AE%9A.023.jpeg)
+
 
   1.[textbox] (https://github.com/bhnddowinf/vuejs-learn/blob/master/11/01%20text.html)
 
@@ -546,6 +723,51 @@
   https://youtu.be/LXGGcnW6Oas
 
   https://pan.baidu.com/s/1nvpNxED
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.015.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.016.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.017.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.018.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.019.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.020.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.021.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/img/%E8%BF%87%E6%B8%A1.022.jpeg)
+
 
   [css3 animations](https://github.com/bhnddowinf/vuejs-learn/blob/master/12/css3%20animationend.html)
 
