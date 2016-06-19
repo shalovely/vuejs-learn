@@ -272,6 +272,51 @@
 
   https://pan.baidu.com/s/1bpFkmIz
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.015.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.016.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.017.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.018.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.019.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.020.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/img/Data%20Binding%20Syntax%20%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E8%AF%AD%E6%B3%95.021.jpeg)
+
+
+
+
 #### 此章范例如下：
 
   1.[view-interpolations-text](https://github.com/bhnddowinf/vuejs-learn/blob/master/05/001%20view-interpolations-text%20.html)
