@@ -169,6 +169,37 @@
 
 #### 此章范例如下：
 
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.013.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.014.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.015.jpeg)
+
+
   1. [响应式数据绑定] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/001%20Reactive%20data%20binding%20demo.html)
 
   2. [响应式数据绑] (https://github.com/bhnddowinf/vuejs-learn/blob/master/03/002%20Reactive%20data%20binding%20second%20demo.html)
@@ -189,6 +220,33 @@
   https://pan.baidu.com/s/1c5IOBO
 
   ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/lifecycle.jpg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/04/img/The%20Vue%20Instance%20%E5%AE%9E%E4%BE%8B.013.jpeg)
+
 
 #### 此章范例如下：
 
