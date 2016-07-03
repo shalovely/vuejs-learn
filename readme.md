@@ -973,6 +973,10 @@
 
 ## 13 组件(第五篇)
 
+  http://pan.baidu.com/s/1b4id9k
+
+
+
   vue js 013 组件 5 1 Dynamic Components
   https://youtu.be/cPAEY86Lj_o
 
