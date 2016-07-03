@@ -52,6 +52,8 @@
 
   13.[组件第四篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第四篇)
 
+  13.[组件第五篇] (https://github.com/bhnddowinf/vuejs-learn#13-组件第五篇)
+
 #台湾小凡
 
 目前在台湾的中小企业
@@ -992,7 +994,10 @@
   vue js 013 组件 5 7 Async Components
   https://youtu.be/R4TMPyTq0ZU
 
+  vue js 013 组件 5 8 Recursive Component1
+  https://youtu.be/Yby_DqAAPOo
 
+  vue js 013 组件 5 9 end
 
 ## License
 
