@@ -968,6 +968,32 @@
 
   https://youtu.be/zHzP7EcGxAM
 
+
+## 13 组件(第五篇)
+
+  vue js 013 组件 5 1 Dynamic Components
+  https://youtu.be/cPAEY86Lj_o
+
+  vue js 013 组件 5 2 Dynamic Components Keep alive
+  https://youtu.be/6YTQCGpanWE
+
+  vue js 013 组件 5 3 activate Hook
+  https://youtu.be/EHBeo0-vcg4
+
+  vue js 013 组件 5 4 transition mode
+  https://youtu.be/5jmiwP1j-wk
+
+  vue js 013 组件 5 5 Components and v for
+  https://youtu.be/azgjurpY-kU
+
+  vue js 013 组件 5 6 Authoring Reusable Components
+  https://youtu.be/R_IF5bbH8UU
+
+  vue js 013 组件 5 7 Async Components
+  https://youtu.be/R4TMPyTq0ZU
+
+
+
 ## License
 
   [MIT](http://opensource.org/licenses/MIT)
