@@ -998,6 +998,52 @@
   https://youtu.be/Yby_DqAAPOo
 
   vue js 013 组件 5 9 end
+  https://youtu.be/bt-xuiOyFJU
+
+  1.[5-1 Dynamic Components.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-1%20Dynamic%20Components.html)
+
+  2.[5-2 Dynamic Components Keep alive.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-2%20Dynamic%20Components%20Keep%20alive.html)
+
+  3.[5-3 activate Hook.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-3%20activate%20Hook.html)
+
+  4.[5-4 transition-mode .html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-4%20transition-mode%20.html)
+
+  5.[5-5 Components and v-for.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-5%20Components%20and%20v-for.html)
+
+  6.[5-6 Authoring Reusable Components .html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-6%20Authoring%20Reusable%20Components%20.html)
+
+  7.[5-7 Async Components.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-7%20Async%20Components.html)
+
+  8.[5-8 Recursive Component1.html](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5-8%20Recursive%20Component1.html)
+
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.001.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.002.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.003.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.004.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.005.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.006.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.007.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.008.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.009.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.010.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.011.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.012.jpeg)
+
+  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/13/5/5.013.jpeg)
+
+
 
 ## License
 
