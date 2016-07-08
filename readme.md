@@ -46,7 +46,7 @@
 
   13.[组件] (https://github.com/bhnddowinf/vuejs-learn/blob/master/13.md)
 
-  13.[深入响应式原理] (https://github.com/bhnddowinf/vuejs-learn/blob/master/14.md)
+  14.[深入响应式原理] (https://github.com/bhnddowinf/vuejs-learn/blob/master/14.md)
 
 #台湾小凡
 
