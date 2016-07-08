@@ -100,43 +100,7 @@
 	注：优酷视频专区，上传不易，自计算属性(006)以后章节之视频，以百度云为主(上传较快)。
 
 
-##01.什么是 vuejs
 
-  简介：介绍 vue.js 是什么。
-
-  https://www.youtube.com/watch?v=IunxMtYWVLM&feature=youtu.be
-
-  https://pan.baidu.com/s/1hsay65A
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.001.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.002.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.003.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.004.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.005.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.006.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.007.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.008.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.009.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.010.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.011.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.012.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.013.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.014.jpeg)
-
-  ![](https://github.com/bhnddowinf/vuejs-learn/blob/master/03/img/Overview%20%E6%A6%82%E8%BF%B0.015.jpeg)
 
 
 
