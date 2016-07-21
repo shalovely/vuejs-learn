@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <script src="vue.js"></script>
+    <style>
+    pre {
+        margin: 0;
+        padding: 0.3em;
+        border: 1px dashed #2f6fab;
+        background-color: #f9f9f9;
+        color: black;
+        line-height: 1em;
+        font-family: verdana, helvetica, sans-serif;
+    }
+
+    body {
+        margin-top: 100px;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="example">
+        <h1>打开控制台，vm.example, vm.example1 </h1>
+        <input type="text" v-model="msg">
+        msg:{{msg}}
+        <hr>
+        每次访问时，时间戳,缓存: {{example}}
+        <hr>
+        每次访问时，时间戳，不缓存: {{example1}}
+    </div>
+    <script>
+    var vm = new Vue({
+        el: '#example',
+        data: {
+            msg: 'hi'
+        },
+        computed: {
+            'example': function() {
+                return Date.now() +"-"+this.msg
+            },
+            'example1': {
+                cache: false, // 关闭缓存
+                get: function() {
+                    return Date.now() + "-" +this.msg
+                }
+
+            }
+        }
+    })
+    </script>
+</body>
+
+</html>

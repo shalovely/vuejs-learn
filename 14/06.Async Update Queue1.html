@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <script src="vue.js"></script>
+    <style>
+    pre {
+        margin: 0;
+        padding: 0.3em;
+        border: 1px dashed #2f6fab;
+        background-color: #f9f9f9;
+        color: black;
+        line-height: 1em;
+        font-family: verdana, helvetica, sans-serif;
+    }
+
+    body {
+        margin-top: 100px;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="example">
+        {{msg}}
+        <hr>
+        <example></example>
+    </div>
+    <script>
+    Vue.component('example', {
+        template: '<span>{{msg}}<button @click="updateMessage">updateMessage</button></span>',
+        data: function() {
+            return {
+                msg: 'not updated'
+            }
+        },
+        methods: {
+            updateMessage: function() {
+                this.msg = 'updated'
+                console.log(this.$el.textContent) // => 'not updated'
+                this.$nextTick(function() {
+                    console.log(this.$el.textContent) // => 'updated'
+                })
+            }
+        }
+    })
+    var vm = new Vue({
+        el: '#example',
+        data: {
+            msg: '123'
+        }
+    })
+    </script>
+</body>
+
+</html>

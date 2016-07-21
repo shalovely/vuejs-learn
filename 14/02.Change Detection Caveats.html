@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <script src="vue.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <p>a:{{a}}</p>
+        a:<input v-model="a">
+        <p>b:{{b}}</p>
+        b:<input v-model="b">
+    </div>
+    <script>
+    var data = { a: 1 }
+    var vm = new Vue({
+      data: data,
+      el:'#app'
+    })
+    // `vm.a` 和 `data.a` 现在是响应的
+
+    vm.b = 2
+    // `vm.b` 不是响应的
+
+    data.b = 2
+    // `data.b` 不是响应的
+
+    </script>
+</body>
+
+</html>
