@@ -1,10 +1,3 @@
-# vuejs 2 引导
- 
- https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/vuejs2.md
- 
- 反正官网目前还在写，小凡跟着拆(猜)!?
- 
-
 #视频主旨：
   vue.js 1 官网讲解
   注：vue.js 2 如果公布且官网有2.0版，此站会暂停更新(因为 vue.js 1,将被作废)，所以会另建 vue.js 2 官网讲解(反正我也会任性，要作废的东西，不会讲解教学)。
@@ -12,6 +5,13 @@
   [youtube vue.js 教学视频区] (https://www.youtube.com/playlist?list=PLxrdGdTjEw4S51aOvZGOJ-JCeCky2I2H-)
 
   [百度云 vue.js 教学视频区] (http://pan.baidu.com/share/home?uk=3515901940#category/type=0)
+
+# vuejs 2 引导
+ 
+ https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/vuejs2.md
+ 
+ vuejs2 官网目前还在写，小凡跟着拆(猜), 可能是废文
+ 
 
 #视频的目的
 
