@@ -28,11 +28,18 @@ http://vuejs.org/guide/index.html
 
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/index.md
 
+![] (https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/index01.jpg)
+
 #----- overview
 
 http://vuejs.org/guide/overview.html
 
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/overview.md
+
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/overview01.jpg)
+
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/overview02.jpg)
+
 
 #---- the vue instance
 
@@ -40,11 +47,18 @@ https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/instance.md
 
 http://vuejs.org/guide/instance.html
 
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/instance01.jpg)
+
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/instance02.jpg)
+
+![](https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/instance03.jpg)
 
 #----- data binding syntax
 http://vuejs.org/guide/syntax.html
 
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/syntax.md
+
+
 
 #----- Computed Properties
 http://vuejs.org/guide/computed.html
