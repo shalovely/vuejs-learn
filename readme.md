@@ -10,7 +10,7 @@
  
  https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/vuejs2.md
  
- vuejs2 官网目前还在写，小凡跟着拆(猜), 可能是废文
+ vuejs2 官网目前还在写，小凡跟着拆(猜), 這篇文章可能是废文
  
 
 #视频的目的
