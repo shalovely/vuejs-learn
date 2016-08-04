@@ -21,6 +21,7 @@ https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/installation.md
 
 http://vuejs.org/guide/installation.html
 
+<img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/install01.jpg" width="100%" height="100%">
 
 #----- Getting Started
 
