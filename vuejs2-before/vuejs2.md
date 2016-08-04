@@ -43,9 +43,11 @@ http://vuejs.org/guide/instance.html
 
 #----- data binding syntax
 http://vuejs.org/guide/syntax.html
+
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/syntax.md
 
 #----- Computed Properties
 http://vuejs.org/guide/computed.html
+
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/components.md
 待续（工作忙）
