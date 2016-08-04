@@ -31,6 +31,7 @@ https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/index.md
 
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/index01.jpg" width="100%" height="100%">
 
+<hr>
 
 #----- overview
 
@@ -40,8 +41,11 @@ https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/overview.md
 
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/overview01.jpg" width="100%" height="100%">
 
+<hr>
+
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/overview02.jpg" width="100%" height="100%">
 
+<hr>
 
 #---- the vue instance
 
@@ -50,11 +54,11 @@ https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/instance.md
 http://vuejs.org/guide/instance.html
 
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/instance01.jpg" width="100%" height="100%">
-
+<hr>
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/instance02.jpg" width="100%" height="100%">
-
+<hr>
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/instance03.jpg" width="100%" height="100%">
-
+<hr>
 
 #----- data binding syntax
 http://vuejs.org/guide/syntax.html
@@ -62,15 +66,15 @@ http://vuejs.org/guide/syntax.html
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/syntax.md
 
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/syntax01.jpg" width="100%" height="100%">
-
+<hr>
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/syntax02.jpg" width="100%" height="100%">
-
+<hr>
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/syntax03.jpg" width="100%" height="100%">
-
+<hr>
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/syntax04.jpg" width="100%" height="100%">
-
+<hr>
 <img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/syntax05.jpg" width="100%" height="100%">
-
+<hr>
 #----- Computed Properties
 http://vuejs.org/guide/computed.html
 
