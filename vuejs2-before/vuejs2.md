@@ -28,7 +28,8 @@ http://vuejs.org/guide/index.html
 
 https://github.com/vuejs/vuejs.org/blob/2.0/src/guide/index.md
 
-![] (https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/index01.jpg)
+<img src="https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/index01.jpg" width="100%" height="100%">
+
 
 #----- overview
 
