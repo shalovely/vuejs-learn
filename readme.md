@@ -23,7 +23,10 @@
 --------------------------------------------------------------
 # vue.js 1 官网讲解
 
+
   [youtube vue.js1 教学视频区] (https://www.youtube.com/playlist?list=PLxrdGdTjEw4S51aOvZGOJ-JCeCky2I2H-)
+  
+  
   [百度云 vue.js1 教学视频区] (http://pan.baidu.com/share/home?uk=3515901940#category/type=0)
 
 
