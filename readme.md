@@ -1,3 +1,8 @@
+# Vue.Js 2 官网讲解
+  
+  https://github.com/bhnddowinf/vuejs2-learn
+  
+
 # 视频主旨
 
   个人喜欢 vue.js , 跟 ng，react相比，react，要很成熟的js基础，才能驾馭，ng 对个人来说太难，ng2 走微软派，个人对微软反感。
